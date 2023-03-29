@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+PCN/log
+PCN/results
+.idea
+data
